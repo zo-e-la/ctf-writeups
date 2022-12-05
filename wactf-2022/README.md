@@ -16,6 +16,7 @@ Burger Bot
 
 [@SintiHaze](https://github.com/SintiHaze) 
 [@etselect](https://github.com/etselect)
+[@jossaline](https://github.com/jossaline)
 
 ## Rankings
 The following is the ranking in terms of points received from challenges. We placed 15th place out of 152 participants and we received 1740pts total. 
