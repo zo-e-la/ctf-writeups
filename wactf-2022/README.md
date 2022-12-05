@@ -1,14 +1,13 @@
 ![wactf-swan](https://user-images.githubusercontent.com/30396122/205560818-f63d804b-abcc-400e-b341-d3ba00e845e3.png)
 
 ## Overview 
-WACTF 0x05 is a two day event in WA hosted CTF. It involved a number of categories including: 
+WACTF 0x05 is a two day CTF in WA. It involved a number of categories including: 
 1. Web Application
 2. Exploitation
 3. Cryptography
 4. Active Directory
 5. Incident Response
 6. Miscellaneous 
-
 My focus was on Web Application and at the end I tried some Exploitation (however I ran out of time). 
 
 ## Team
