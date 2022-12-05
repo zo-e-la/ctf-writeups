@@ -1,0 +1,7 @@
+WACTF-2022
+==========
+
+**CHALLENGES SOLVED**
+
+**WEB APPLICATIONS**
+
