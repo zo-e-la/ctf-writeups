@@ -1,5 +1,5 @@
 # x=-y (100pts)
-Type: Web Application
+**TYPE**: Web Application
 ## Brief 
 > It is all going downhill from here! Did you not see that math equation
 ## Process
