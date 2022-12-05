@@ -6,7 +6,7 @@
 1. Opened link, presented with this webpage: 
 > Video Clue: "loOk aT tHiS --photo--gRapH" - Nickelback
 
-![nickelback](https://user-images.githubusercontent.com/30396122/205565275-d248f94f-eed9-4f1f-b934-e5885f4e3869.png)
+![nickelback](https://user-images.githubusercontent.com/30396122/205573885-b8dda9d9-6e36-4ef2-afd7-327aac41e56e.png)
 
 > Thinking: Okay graph and math (x=-y)
 2. Looked at source code: 
