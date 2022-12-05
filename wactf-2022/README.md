@@ -15,3 +15,6 @@ The following is the ranking in terms of points received. We placed 15th place o
 
 #### NOTE 
 Each folder is a challenge I completed. This is my second ctf so I am still learning! Happy I found two flags (with the help of my teammates). This competition I was focusing on web applications section. 
+
+> **Note**
+> This is a note
