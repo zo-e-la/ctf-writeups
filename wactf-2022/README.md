@@ -8,6 +8,7 @@ WACTF 0x05 is a two day CTF in WA. It involved a number of categories including:
 4. Active Directory
 5. Incident Response
 6. Miscellaneous 
+
 My focus was on Web Application and at the end I tried some Exploitation (however I ran out of time). 
 
 ## Team
