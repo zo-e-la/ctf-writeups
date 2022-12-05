@@ -1,6 +1,7 @@
 WACTF-2022
 ==========
-**Team Burger Bot**
+Team: **Burger Bot**
+
 Teammates: 
 
 Ranking (*adjusted*): 
