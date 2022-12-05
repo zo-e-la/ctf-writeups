@@ -18,7 +18,7 @@ Burger Bot
 @SintiHaze
 
 ## Rankings
-The following is the ranking in terms of points received from challenge. We placed 15th place out of 152 participants and we received 1740pts total. 
+The following is the ranking in terms of points received from challenges. We placed 15th place out of 152 participants and we received 1740pts total. 
 
 ![ranking](https://user-images.githubusercontent.com/30396122/205560876-1e70946a-620b-4ae8-a10d-4e65053a4ef8.jpg)
 
