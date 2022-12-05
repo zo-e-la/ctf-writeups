@@ -13,7 +13,9 @@ My focus was on Web Application and at the end I tried a Exploitation challenge 
 
 ## Team
 Burger Bot
-[TEAMMATES] 
+
+@etselect 
+@SintiHaze
 
 ## Rankings
 The following is the ranking in terms of points received from challenge. We placed 15th place out of 152 participants and we received 1740pts total. 
