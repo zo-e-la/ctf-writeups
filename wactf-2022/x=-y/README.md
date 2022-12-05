@@ -8,7 +8,7 @@ Video Clue: "loOk aT tHiS ~~photo~~gRapH" - Nickelback
 
 ![nickelback](https://user-images.githubusercontent.com/30396122/205576506-9d79f55d-94df-4187-9a7c-9ee617dbf37a.png)
 
-Thinking: Okay graph and math (x=-y)
+Thinking: Okay graph and math (x=-y), and potentially monke
 
 #### 2. Looked at source code: 
 
