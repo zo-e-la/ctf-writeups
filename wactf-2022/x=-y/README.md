@@ -15,7 +15,7 @@ Thinking: Okay graph and math (x=-y), and potentially monke
 The source code included another clue, which was a console log that said something along the lines of this website is using graphQL. 
 #### 3. Research: 
 
-Probably way too much research for the task at hand... Anyway now I know --too much-- about graphQL. 
+Probably way too much research for the task at hand... Anyway now I know ~~too much~~ about graphQL. 
 
 **Relevant Research to this CTF** 
 * [John Hammond's Video on GraphQL](https://www.youtube.com/watch?v=0wPKzinwM7A&ab_channel=JohnHammond)
