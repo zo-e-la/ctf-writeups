@@ -8,7 +8,9 @@ Introducing... Swansay! It's like cowsay... but better ;)
 Input string into text box and swan will swansay. 
 #### 2. Tried to inject '.' and then "." into textbox to see what the response is: 
 "." entry came back with an eval() error. 
-"eval() is evil" as a wise man once said. 
+> eval() is evil
+as a wise man once said... 
+
 Basically the text input of the user shoud be santised properly, otherwise malicious code can be executed.  
 #### 3. Next step was to figure out what language is used, by looking at source code: 
 Found that the source code includes some interesting packages including turbo rails. 
