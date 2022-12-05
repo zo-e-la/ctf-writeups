@@ -5,7 +5,9 @@
 ## Process
 1. Opened link, presented with this webpage: 
 > Video Clue: "loOk aT tHiS --photo--gRapH" - Nickelback
+
 ![nickelback](https://user-images.githubusercontent.com/30396122/205565275-d248f94f-eed9-4f1f-b934-e5885f4e3869.png)
+
 > Thinking: Okay graph and math (x=-y)
 2. Looked at source code: 
 The source code included another clue, which was a console log that said something along the lines of this website is using graphQL. 
@@ -13,8 +15,8 @@ The source code included another clue, which was a console log that said somethi
 Probably way too much research for the task at hand... Anyway now I know --too much-- about graphQL. 
 
 ##### Relevant Research to this CTF: 
-* ![John Hammond's Video on GraphQL](https://www.youtube.com/watch?v=0wPKzinwM7A&ab_channel=JohnHammond)
-* ![Introspect Query](https://gist.github.com/craigbeck/b90915d49fda19d5b2b17ead14dcd6da) 
+* [John Hammond's Video on GraphQL](https://www.youtube.com/watch?v=0wPKzinwM7A&ab_channel=JohnHammond)
+* [Introspect Query](https://gist.github.com/craigbeck/b90915d49fda19d5b2b17ead14dcd6da) 
 
 > **Note**
 > Extra Research (Things that could be helpful for other GraphQL challenges) is located at the end of this document... 
@@ -47,16 +49,16 @@ Fun and easy challenge, could have solved it much earlier however our team didn'
 
 ## Resources 
 **Video Resources:** 
-* ![Hacking Simplified Video on GraphQL - Part 1](https://www.youtube.com/watch?v=w0QOAacuPgQ&ab_channel=HackingSimplified)
-* ![Hacking Simplified Video on GraphQL - Part 2](https://www.youtube.com/watch?v=YA-mL9Z8SNI&ab_channel=HackingSimplified) 
-* ![Cyber Security TV Video on How to exploit GraphQL](https://www.youtube.com/watch?v=fszVtstHvgE&list=RDLVYA-mL9Z8SNI&index=5&ab_channel=CyberSecurityTV) 
+* [Hacking Simplified Video on GraphQL - Part 1](https://www.youtube.com/watch?v=w0QOAacuPgQ&ab_channel=HackingSimplified)
+* [Hacking Simplified Video on GraphQL - Part 2](https://www.youtube.com/watch?v=YA-mL9Z8SNI&ab_channel=HackingSimplified) 
+* [Cyber Security TV Video on How to exploit GraphQL](https://www.youtube.com/watch?v=fszVtstHvgE&list=RDLVYA-mL9Z8SNI&index=5&ab_channel=CyberSecurityTV) 
 
 **CTF walkthroughs:** 
-* ![0xdf hacks stuff](https://0xdf.gitlab.io/2019/06/08/htb-help.html) 
-* ![Jamie Light Foot Blog - 2019 Hack in Paris CTF, Meet Your Doctor GraphQL](https://jaimelightfoot.com/blog/hack-in-paris-2019-ctf-meet-your-doctor-graphql-challenge/)  
-* ![ctftime writeup 7475](https://ctftime.org/writeup/7475) 
+* [0xdf hacks stuff](https://0xdf.gitlab.io/2019/06/08/htb-help.html) 
+* [Jamie Light Foot Blog - 2019 Hack in Paris CTF, Meet Your Doctor GraphQL](https://jaimelightfoot.com/blog/hack-in-paris-2019-ctf-meet-your-doctor-graphql-challenge/)  
+* [ctftime writeup 7475](https://ctftime.org/writeup/7475) 
 
 **Other** 
-* ![OWASP CheatSheet for GraphQL](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) 
-* ![wafw00f](https://github.com/EnableSecurity/wafw00f) 
-* ![Blog Assetnote - Exloiting GraphQL](https://blog.assetnote.io/2021/08/29/exploiting-graphql/) 
+* [OWASP CheatSheet for GraphQL](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) 
+* [wafw00f](https://github.com/EnableSecurity/wafw00f) 
+* [Blog Assetnote - Exloiting GraphQL](https://blog.assetnote.io/2021/08/29/exploiting-graphql/) 
