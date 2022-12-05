@@ -74,4 +74,4 @@ WACTF{3V41_15_t7uLy_evIl_bf3dbozaeb7b2}
 ```
 ##
 ## Conclusion 
-This was an awesome CTF and I enjoyed it, mainly because I was pretty much on the right track the whole time. Plus I would classify this as my first completely solo CTF solve! 
+This was an fun challenge and I enjoyed it, mainly because I was pretty much on the right track the whole time. Plus birb :swan:
