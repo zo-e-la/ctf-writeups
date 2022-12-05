@@ -43,9 +43,8 @@ The string below is \`ls\` in base64
 "+ Base64.decode64('YGxzYA==') +"
 ```
 Results: 
+<img src="https://user-images.githubusercontent.com/30396122/205585650-53c78f41-9716-44a1-9c67-524d2eaf0909.png" style="width: 50%; height: 50%"/></img> 
 
-# HERE
-<img src="https://user-images.githubusercontent.com/30396122/205585650-53c78f41-9716-44a1-9c67-524d2eaf0909.png" style="width: 50%; height: 50%"/>
 Thoughts: Okay, backticks are bypassing the filtering however it is processing the base64 payload as a string not a command. 
 ##
 #### 8. Researched a function in ruby that makes strings into a command
