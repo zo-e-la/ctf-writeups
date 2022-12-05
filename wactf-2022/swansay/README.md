@@ -12,15 +12,15 @@ Input string into text box and swan will swansay.
 > eval() is evil
 as a wise man once said... 
 
-Basically the text input of the user shoud be santised properly, otherwise malicious code can be executed.  
+Basically the text input of the user should be santised properly, otherwise malicious code can be executed.  
 ##
 #### 3. Next step was to figure out what language is used, by looking at source code: 
 Found that the source code includes some interesting packages including turbo rails. 
 Assuming turbo rails is association with Ruby on Rails, I did some research. 
-I found the package they were using on github: 
+I found the package they were using is on github: 
 * [Turbo Rails](https://github.com/hotwired/turbo-rails) 
 ##
-#### 4. Wrote inject in Ruby
+#### 4. Wrote inject in Ruby formatting
 ```
 "+[random value for test]+"
 ```
@@ -35,7 +35,7 @@ Found out it does not like backticks (so there is some filtering going on), beca
 #### 6. We need to find a way to bypass the filtering 
 First I thought of URL encoding the backticks, however this didn't work. 
 Then I research a couple of other ways of encoding backticks. 
-After these failed I thought, I could encode the backticks and then decode it with a common function used in Ruby (that would be imported in the program). 
+After these failed I thought, I could encode the backticks and then decode it with a common function used in Ruby (that would be imported in the original code). 
 ##
 #### 7. Tried encoding string with base64 and then decoding with Ruby's [Base64.decode()](https://ruby-doc.org/stdlib-2.5.3/libdoc/base64/rdoc/Base64.html) function
 The string below is \`ls\` in base64 
@@ -61,7 +61,7 @@ Results:
 
 ![swan_4](https://user-images.githubusercontent.com/30396122/205587505-26c7335e-d53e-4719-938f-e5abde105a6c.png)
 ##
-#### 10. Now simply investigate the files with \`ls\` and then enter \`cat [FLAG FILE NAME]\` encoded 
+#### 10. After I simply investigated the files in the current directory with \`ls\` and then entered \`cat [FLAG FILE NAME]\` encoded
 The string below is \`cat [FLAG FILE NAME]\` in base64 
 ```
 "+ instance_eval(Base64.decode64('YGNhdCBmbGFnX2VhMjY4YmFkNzJhLnR4dGA='))  +”
