@@ -6,7 +6,7 @@ Introducing... Swansay! It's like cowsay... but better ;)
 #### 1. Opened link, presented with this guy:
 ![swan_2](https://user-images.githubusercontent.com/30396122/205581081-dfef3e2b-674f-4ce5-84c3-7cd4e0e3dff2.png)
 Input string into text box and swan will swansay. 
-#### 2. First things first tried to inject '.' and then "." into textbox to see what the response is: 
+#### 2. Tried to inject '.' and then "." into textbox to see what the response is: 
 "." entry came back with an eval() error. 
 "eval() is evil" as a wise man once said. 
 Basically the text input of the user shoud be santised properly, otherwise malicious code can be executed.  
