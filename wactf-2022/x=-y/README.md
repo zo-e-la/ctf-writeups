@@ -4,7 +4,7 @@
 “It is all going downhill from here! Did you not see that math equation.”
 ## Process
 1. Opened link, presented with this webpage: 
-> Video Clue: "loOk aT tHiS --photo--gRapH" - Nickelback
+> Video Clue: "loOk aT tHiS ~~photo~~gRapH" - Nickelback
 
 ![nickelback](https://user-images.githubusercontent.com/30396122/205573885-b8dda9d9-6e36-4ef2-afd7-327aac41e56e.png)
 
