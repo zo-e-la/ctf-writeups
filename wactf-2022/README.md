@@ -8,6 +8,7 @@ Burger Bot
 
 #### RANKING 
 This competition was outside of our team's geographical location therefore we were not elligible for prizes	:slightly_frowning_face:
+
 The following is the ranking in terms of points received. We placed 15th place out of 152 participants. 
 
 ![ranking](https://user-images.githubusercontent.com/30396122/205560876-1e70946a-620b-4ae8-a10d-4e65053a4ef8.jpg)
