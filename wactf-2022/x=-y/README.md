@@ -1,7 +1,7 @@
 # x=-y (100pts)
-**TYPE**: Web Application
+**TYPE: WEB APPLICATION**
 ## Brief 
-> It is all going downhill from here! Did you not see that math equation
+It is all going downhill from here! Did you not see that math equation
 ## Process
 #### 1. Opened link, presented with this webpage: 
 Video Clue: "loOk aT tHiS ~~photo~~gRapH" - Nickelback
@@ -48,7 +48,6 @@ curl -s http://web-1/graphql -H "Content-Type: application/json" -d '{ "query": 
 ```
 WACTF{look_at_this_graph_was_made_in_2015_I_am_getting_too_old}
 ```
-
 ## Conclusion 
 Fun and easy challenge, could have solved it much earlier however I didn't look closely at the dump of data and seperate it by line until the second day of the CTF.
 
