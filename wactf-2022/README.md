@@ -12,4 +12,4 @@
 ![ranking](https://user-images.githubusercontent.com/30396122/205560876-1e70946a-620b-4ae8-a10d-4e65053a4ef8.jpg)
 
 ## NOTE 
-Each folder is a challenge I completed. This is my second ctf so I am still learning! Happy I could have gotten two flags (with the help of my teammates). 
+Each folder is a challenge I completed. This is my second ctf so I am still learning! Happy I found two flags (with the help of my teammates). 
