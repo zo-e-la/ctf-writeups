@@ -43,7 +43,8 @@ The string below is \`ls\` in base64
 "+ Base64.decode64('YGxzYA==') +"
 ```
 Results: 
-<img src="https://user-images.githubusercontent.com/30396122/205585650-53c78f41-9716-44a1-9c67-524d2eaf0909.png" style="width: 50%; height: 50%"/></img> 
+
+<img src="https://user-images.githubusercontent.com/30396122/205585650-53c78f41-9716-44a1-9c67-524d2eaf0909.png" style="width: 35%; height: 35%"/></img> 
 
 Thoughts: Okay, backticks are bypassing the filtering however it is processing the base64 payload as a string not a command. 
 ##
@@ -58,7 +59,7 @@ The string below is \`id\` in base64
 ```
 Results: 
 
-![swan_4](https://user-images.githubusercontent.com/30396122/205587505-26c7335e-d53e-4719-938f-e5abde105a6c.png)
+<img src="https://user-images.githubusercontent.com/30396122/205587505-26c7335e-d53e-4719-938f-e5abde105a6c.png" style="width: 35%; height: 35%"/></img> 
 ##
 #### 10. After I simply investigated the files in the current directory with \`ls\` and then entered \`cat [FLAG FILE NAME]\` encoded
 The string below is \`cat [FLAG FILE NAME]\` in base64 
@@ -67,7 +68,7 @@ The string below is \`cat [FLAG FILE NAME]\` in base64
 ```
 ##
 #### 11. Flag!
-![swan_flag 182025](https://user-images.githubusercontent.com/30396122/205588102-c3d42197-751c-4532-955a-9a7fd75d40f2.png)
+<img src="https://user-images.githubusercontent.com/30396122/205588102-c3d42197-751c-4532-955a-9a7fd75d40f2.png" style="width: 35%; height: 35%"/></img> 
 ```
 WACTF{3V41_15_t7uLy_evIl_bf3dbozaeb7b2}
 ```
