@@ -3,9 +3,9 @@
 ## Brief 
 Introducing... Swansay! It's like cowsay... but better ;)
 ## Process
-#### 1. Opened link, presented with this webpage:
+#### 1. Opened link, presented with this guy:
 ![swan_2](https://user-images.githubusercontent.com/30396122/205581081-dfef3e2b-674f-4ce5-84c3-7cd4e0e3dff2.png)
-
+Input string into text box and he will say it. 
 #### 8. Flag! 
 ```
 WACTF{}
